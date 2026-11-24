@@ -1,0 +1,6 @@
+{
+  "name": "Smart Campus Safety & Emergency Response System",
+  "description": "Centralized campus safety platform for SOS emergency alerts, consent-based location sharing, incident reporting, responder dispatch, and administrative oversight.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": []
+}
